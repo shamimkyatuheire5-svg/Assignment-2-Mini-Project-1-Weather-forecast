@@ -1,0 +1,18 @@
+{
+  "results": [
+    {
+      "id": 2935022,
+      "name": "Dresden",
+      "latitude": 51.05089,
+      "longitude": 13.73832,
+      "elevation": 116.0,
+      "feature_code": "PPLA",
+      "country_code": "DE",
+      "timezone": "Europe/Berlin",
+      "population": 556227,
+      "country": "Germany",
+      "admin1": "Saxony"
+    }
+  ],
+  "generationtime_ms": 0.62
+}
